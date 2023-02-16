@@ -1,0 +1,4 @@
+from inline_buttons.client_kb_in import kb_client_inline
+from inline_buttons.view_kb_in import kb_view_inline
+from inline_buttons.add_kb_in import kb_add_inline
+from inline_buttons.cancel_kb_in import kb_cancel_inline
